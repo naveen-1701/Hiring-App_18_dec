@@ -1,0 +1,5 @@
+{
+  "name": "ResumeAI Screener",
+  "description": "An AI-powered application to screen resumes against job descriptions, providing match scores, skill analysis, and detailed summaries using Gemini 2.5.",
+  "requestFramePermissions": []
+}
